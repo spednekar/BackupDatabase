@@ -1,0 +1,10 @@
+C:\Users\SYS\Documents\Visual Studio 2015\Projects\BackupDatabase\BackupDatabase\bin\Debug\BackupDatabase.exe.config
+C:\Users\SYS\Documents\Visual Studio 2015\Projects\BackupDatabase\BackupDatabase\bin\Debug\BackupDatabase.exe
+C:\Users\SYS\Documents\Visual Studio 2015\Projects\BackupDatabase\BackupDatabase\bin\Debug\BackupDatabase.pdb
+C:\Users\SYS\Documents\Visual Studio 2015\Projects\BackupDatabase\BackupDatabase\bin\Debug\log4net.dll
+C:\Users\SYS\Documents\Visual Studio 2015\Projects\BackupDatabase\BackupDatabase\bin\Debug\Topshelf.dll
+C:\Users\SYS\Documents\Visual Studio 2015\Projects\BackupDatabase\BackupDatabase\bin\Debug\log4net.xml
+C:\Users\SYS\Documents\Visual Studio 2015\Projects\BackupDatabase\BackupDatabase\bin\Debug\Topshelf.xml
+C:\Users\SYS\Documents\Visual Studio 2015\Projects\BackupDatabase\BackupDatabase\obj\Debug\BackupDatabase.csprojResolveAssemblyReference.cache
+C:\Users\SYS\Documents\Visual Studio 2015\Projects\BackupDatabase\BackupDatabase\obj\Debug\BackupDatabase.exe
+C:\Users\SYS\Documents\Visual Studio 2015\Projects\BackupDatabase\BackupDatabase\obj\Debug\BackupDatabase.pdb
